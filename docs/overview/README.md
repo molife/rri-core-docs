@@ -1,4 +1,4 @@
-# Rays of Reesilience Documentation
+# Rays of Resilience Documentation
 
  Organizational Structure
 	•	Rays of Resilience International Ministries
