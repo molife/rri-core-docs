@@ -1,31 +1,26 @@
-Rays of Resilience International Prayer Ministry Bugiri Limited
+# Bugiri Church Development
 
-Organization
+## Church Name
+Rays of Resilience International Ministries Limited
 
-Rays of Resilience International Ministries
-
-Type
-
-Community church
-
-Location
-
+## Location
 Bugiri, Uganda
 
-Leadership
+## Mission
+Build a Christ centered community supporting children, families, education, faith.
 
-Pastor Ronald Mulwany
+## Leadership
+Pastor: Ronald
+Director: Mawazi Azalwa
 
-Purpose
+## Current Activities
+• Church gatherings
+• Community prayer
+• Orphanage support
+• Youth mentorship
 
-Provide prayer services, spiritual guidance, and community support for the Bugiri region.
-
-Current Work
-
-Church registration in Uganda
-Community outreach
-Church development
-
-Status
-
-Registration process in progress
+## Development Goals
+• Complete church registration
+• Strengthen outreach programs
+• Expand children support
+• Build permanent church facility
