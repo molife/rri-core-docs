@@ -8,7 +8,7 @@ Responsible for overall direction, partnerships, and international coordination 
 ## Ministry Leadership
 
 ### Church Leadership
-Pastor: Ronald
+Pastor: Ronald Mulwany
 
 Responsible for church leadership, spiritual guidance, and community ministry programs.
 
@@ -27,3 +27,22 @@ Local operating entity in Uganda supporting church and community development.
 
 Rays of Resilience Foundation  
 Support organization focused on children, orphanage operations, and community support programs.
+## Operational Areas
+
+Church development in Bugiri
+
+Orphanage operations and child support programs
+
+Community outreach and prayer ministry
+
+International partnerships and ministry expansion
+
+## Operational Areas
+
+Church development in Bugiri
+
+Orphanage operations and child support programs
+
+Community outreach and prayer ministry
+
+International partnerships and ministry expansion
