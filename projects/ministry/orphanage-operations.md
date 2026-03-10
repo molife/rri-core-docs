@@ -1,7 +1,7 @@
 # Orphanage Operations
 
 ## Mission
-Support children through shelter, food, education, spiritual guidance.
+Support children through shelter, food, education, spiritual guidance
 
 ## Location
 Bugiri, Uganda
