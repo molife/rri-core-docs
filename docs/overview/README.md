@@ -1,31 +1,53 @@
-# Rays of Resilience Documentation
+## Ministry Dashboard
 
- Organizational Structure
-	•	Rays of Resilience International Ministries
-	•	Rays of Resilience Foundation
-	•	Rays of Resilience International Ministries Limited
+### Core Structure
 
-Core Documents
-	•	master-roadmap.md
-	•	priorities.md
-	•	project-list.md
+• Rays of Resilience International Ministries  
+• Rays of Resilience Foundation  
+• Rays of Resilience International Ministries Limited
 
-Projects
+### Active Ministry Work
 
-Ministry
+• Church Development in Bugiri  
+• Orphanage Operations  
+• Community Outreach
 
-Church development in Bugiri
-[Orphanage operations](projects/ministry/orphanage-operations.md)
-Community outreach
+### Key Documents
 
-Business
+• Master Roadmap  
+• Project List  
+• Priorities
 
-Green Thumb Gardening Community
-MRC Apparel
+### Current Focus
 
-Current Focus
+• Church registration in Bugiri  
+• Strengthening orphanage support  
+• Expanding ministry outreach  
+• Building long term community programs
 
-Church registration
-Support for children
-Digital infrastructure
-Funding systems
+## Ministry Dashboard
+
+### Core Structure
+
+• Rays of Resilience International Ministries  
+• Rays of Resilience Foundation  
+• Rays of Resilience International Ministries Limited
+
+### Active Ministry Work
+
+• Church Development in Bugiri  
+• Orphanage Operations  
+• Community Outreach
+
+### Key Documents
+
+• Master Roadmap  
+• Project List  
+• Priorities
+
+### Current Focus
+
+• Church registration in Bugiri  
+• Strengthening orphanage support  
+• Expanding ministry outreach  
+• Building long term community programs
