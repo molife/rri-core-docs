@@ -1,22 +1,29 @@
-# Priorities
+# Rays of Resilience Priorities
 
-## Priority 1 – Organizational Structure
-- Register Rays of Resilience International Ministries
-- Register Rays of Resilience Foundation
-- Register Rays of Resilience International Prayer Ministry Bugiri Limited
-- Organize documentation and governance
+## Immediate Priorities
 
-## Priority 2 – Children and Community
-- Support orphanage operations
-- Support Bugiri school project
-- Provide food, supplies, and education support
+• Complete church registration in Bugiri
+• Strengthen orphanage daily support
+• Provide food and education support for children
+• Strengthen leadership coordination
 
-## Priority 3 – Digital Infrastructure
-- Build Rays of Resilience website
-- Build documentation system
-- Create automation and AI systems
+## Short Term Goals
 
-## Priority 4 – Financial Sustainability
-- Grow Green Thumb Gardening Community
-- Grow MRC Apparel
-- Build donation and funding systems
+• Expand community outreach
+• Improve education assistance programs
+• Build stronger ministry structure
+• Increase donor support
+
+## Mid Term Goals
+
+• Secure land for ministry development
+• Expand housing for children
+• Develop stable food supply
+• Build permanent church facility
+
+## Long Term Goals
+
+• Expand international ministry support
+• Develop sustainable funding systems
+• Strengthen global partnerships
+• Build long term community development programs
