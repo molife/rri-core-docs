@@ -24,3 +24,17 @@ Director: Mawazi Azalwa
 • Strengthen outreach programs
 • Expand children support
 • Build permanent church facility
+## Supporting Organization
+
+Rays of Resilience International Ministries
+
+## Related Projects
+
+Orphanage Operations  
+Community Outreach  
+Leadership Development
+
+## Status
+
+Church registration process in progress.  
+Community gatherings and outreach programs active.
