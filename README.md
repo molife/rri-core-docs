@@ -1,6 +1,10 @@
 # Rays of Resilience Core Documentation
+## Project Overview
 
-## Organizational Structure
+View the full system map:
+
+[Project Map](./PROJECT_MAP.md)
+This repository contains the documentation and structure for the Rays of Resilience ecosystem including ministry work, community projects, and supporting business platforms.## Organizational Structure
 
 • Rays of Resilience International Ministries  
 • Rays of Resilience Foundation  
