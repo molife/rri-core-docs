@@ -1,19 +1,37 @@
-Green Thumb Gardening Community
+ # Green Thumb Gardening Community
 
-Type
-E commerce gardening platform
+## Overview
 
-Purpose
-Provide gardening education tools products community resources
+Green Thumb Gardening Community is a gardening education and product platform focused on teaching people how to grow food, improve their gardens, and build sustainable gardening practices.
 
-Programs
-Affiliate gardening products
+## Founder
+
+Roman Corona
+
+## Purpose
+
+Provide gardening education, product recommendations, and community learning resources.
+
+The platform also helps support humanitarian work connected to Rays of Resilience International Ministries.
+
+## Core Activities
+
 Gardening education content
-Community guides tutorials
-E commerce store
 
-Platform
-GreenThumbGardeningCommunity.com
+Product recommendations and gardening tools
 
-Status
-Platform development
+Community learning and resources
+
+Garden planning guidance
+
+## Revenue Sources
+
+Affiliate product recommendations
+
+Digital gardening resources
+
+Online gardening education
+
+## Connection to Ministry
+
+A portion of the platform revenue helps support community programs connected to Rays of Resilience International Ministries.
