@@ -32,3 +32,27 @@
 
 #### MRC Apparel
 [View Documentation](../../projects/business/mrc-apparel.md)
+### System Navigation
+
+#### Ministry Projects
+Church Development in Bugiri  
+../../projects/ministry/projects/bugiri.md
+
+Orphanage Operations  
+../../projects/ministry/orphanage-operations.md
+
+Rays of Resilience Foundation  
+../../projects/ministry/rays-of-resilience-foundation.md
+
+Leadership Structure  
+../../projects/ministry/leadership-structure.md
+
+#### Business Systems
+Green Thumb Gardening Community  
+../../projects/business/green-thumb-gardening-community.md
+
+MRC Apparel  
+../../projects/business/mrc-apparel.md
+
+Funding System  
+../../projects/business/funding-system.md
