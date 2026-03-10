@@ -28,7 +28,7 @@
 ### Business Platforms
 
 #### Green Thumb Gardening Community
-Online gardening education and product platform supporting ministry funding.
+[View Documentation](../../projects/business/green-thumb-gardening-community.md)
 
 #### MRC Apparel
-Clothing and merchandise brand supporting outreach and ministry programs.
+[View Documentation](../../projects/business/mrc-apparel.md)
