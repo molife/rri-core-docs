@@ -1,27 +1,35 @@
-Rays of Resilience International Ministries
+# Rays of Resilience International Ministries
 
-Type
+## Mission
+Serve communities through faith, compassion, education support, and outreach programs.
 
-Faith-based ministry organization.
+## Purpose
+Build a global ministry supporting children, families, and community development.
 
-Purpose
+## Core Areas
+• Church development
+• Orphan support
+• Community outreach
+• Spiritual mentorship
 
-Serve communities, support children in need, strengthen faith leadership.
+## Active Regions
+• Bugiri, Uganda
+• Dominican Republic
+• United States
 
-Programs
+## Key Initiatives
+• Church development in Bugiri
+• Orphanage operations
+• Educational support programs
+• Community prayer and outreach
 
-Rays of Resilience Foundation
-Rays of Resilience International Prayer Ministry Bugiri Limited
-Community outreach
-Education support
+## Leadership
+Founder: Roman Corona
+Director Uganda: Mawazi Azalwa
+Pastor: Ronald
 
-Locations
-
-United States
-Uganda
-
-Current Focus
-
-Church registration in Bugiri
-Support for children in care
-Ministry growth
+## Long Term Vision
+• Expand ministry presence internationally
+• Strengthen support systems for children
+• Build sustainable community projects
+• Create strong faith based leadership networks
