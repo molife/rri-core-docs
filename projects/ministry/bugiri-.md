@@ -1,7 +1,7 @@
 # Bugiri Church Development
 
 ## Church Name
-Rays of Resilience International Ministries Limite
+Rays of Resilience International Ministries Limited
 
 ## Location
 Bugiri, Uganda
