@@ -1,35 +1,34 @@
-# Project List
+# Rays of Resilience Project List
 
-## Ministries
+## Ministry Projects
 
-### Rays of Resilience International Ministries
-Parent organization for all ministry work.
+• Church development in Bugiri
+• Orphanage operations
+• Community outreach programs
+• Youth mentorship
 
-### Rays of Resilience Foundation
-Orphan care and humanitarian support.
+## Foundation Projects
 
-### Rays of Resilience International Prayer Ministry Bugiri Limited
-Community church located in Bugiri, Uganda.
-Operates under Rays of Resilience International Ministries.
+• Child support programs
+• Education assistance
+• Food supply support
+• Health and hygiene support
 
-### Bugiri Community School Project
-Education support and school construction for children in the community.
+## Infrastructure Projects
 
-## Businesses
+• Secure land for ministry work
+• Expand housing for children
+• Build permanent church facility
+• Develop stable food systems
 
-### Green Thumb Gardening Community
-E-commerce gardening platform.
+## Digital Infrastructure
 
-### MRC Apparel
-Clothing brand and merchandise.
+• Ministry documentation system
+• Website development
+• Donation systems
+• Communication platforms
 
-## Infrastructure
+## Business Projects
 
-### AI Agent System
-Automation assistant for operations.
-
-### Server Infrastructure
-Hosting, VPS, automation pipelines.
-
-### Documentation System
-GitHub system organizing all operations.
+• Green Thumb Gardening Community
+• MRC Apparel
