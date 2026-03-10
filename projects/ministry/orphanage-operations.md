@@ -26,3 +26,6 @@ Director: Mawazi Azalwa
 • Expand housing
 • Build stable food supply
 • Strengthen education support
+## Supporting Organization
+
+Rays of Resilience International Ministries
