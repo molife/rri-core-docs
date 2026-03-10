@@ -1,7 +1,7 @@
 # Rays of Resilience Foundation
 
 ## Purpose
-Provide support systems for children, families, and community programs connected to Rays of Resilience International Ministries.
+Provide support systems for children, families, and community programs connected to Rays of Resilience International Ministries Limited.
 
 ## Location
 Bugiri, Uganda
