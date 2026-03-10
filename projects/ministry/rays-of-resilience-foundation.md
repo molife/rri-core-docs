@@ -1,29 +1,25 @@
 # Rays of Resilience Foundation
 
 ## Purpose
-Provide structured support for children, education, community development.
+Provide support systems for children, families, and community programs connected to Rays of Resilience International Ministries.
 
-## Areas of Focus
-• Orphan support
-• Education assistance
-• Community outreach
-• Faith centered mentorship
-
-## Current Operations
-Location: Bugiri, Uganda
-
-Working with local leadership to support daily needs of children through the orphanage program.
+## Location
+Bugiri, Uganda
 
 ## Leadership
 Director: Mawazi Azalwa
 
-## Key Projects
-• Orphanage operations
-• Church community support
-• Educational assistance
+## Core Programs
+• Orphanage support  
+• Child education assistance  
+• Food support programs  
+• Health and hygiene support  
+• Community outreach
 
-## Future Development
-• Expand housing for children
-• Strengthen food supply
-• Support school programs
-• Build sustainable community projects
+## Operational Support
+The foundation works alongside Rays of Resilience International Ministries Limited to support church and community programs.
+
+## Current Development Goals
+• Strengthen orphanage support systems  
+• Expand child education programs  
+• Develop long term community assistance programs
