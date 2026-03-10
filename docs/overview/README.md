@@ -3,7 +3,7 @@
  Organizational Structure
 	•	Rays of Resilience International Ministries
 	•	Rays of Resilience Foundation
-	•	Rays of Resilience International Prayer Ministry Bugiri Limited
+	•	Rays of Resilience International Ministries Limited
 
 Core Documents
 	•	master-roadmap.md
@@ -15,7 +15,7 @@ Projects
 Ministry
 
 Church development in Bugiri
-Orphanage operations
+[Orphanage operations](projects/ministry/orphanage-operations.md)
 Community outreach
 
 Business
