@@ -1,30 +1,49 @@
-# Rays of Resilience Project Map
+# Rays of Resilience System Map
 
-## Core Entities
+## Core Ministry
 
-Rays of Resilience International Ministries  
-Rays of Resilience Foundation  
+Rays of Resilience International Ministries
+
+Global ministry organization responsible for mission, leadership, partnerships, and international coordination.
+
+Founder  
+Roman Corona
+
+## Local Operating Entity
+
 Rays of Resilience International Ministries Limited
+
+Registered operating organization in Uganda supporting church development, community outreach, and ministry programs.
+
+Location  
+Bugiri, Uganda
+
+## Foundation Support
+
+Rays of Resilience Foundation
+
+Support organization focused on child support programs, orphanage operations, education assistance, and community development.
+
+Director  
+Mawazi Azalwa
 
 ## Ministry Projects
 
-Church Development in Bugiri  
+Bugiri Church Development  
+Bugiri Prayer Ministry  
 Orphanage Operations  
-Community Outreach  
-Leadership Development
+Community Outreach Programs
 
 ## Business Platforms
 
-Green Thumb Gardening Community  
+Green Thumb Gardening Community
+
+Gardening education and product platform that helps support community programs.
+
 MRC Apparel
 
-## Strategic Documents
+Lifestyle apparel brand representing resilience, discipline, and growth. A portion of revenue supports humanitarian initiatives.
 
-Master Roadmap  
-Project List  
-Priorities  
-Operations Manual
+## System Purpose
 
-## Purpose
-
-Provide a clear overview of the Rays of Resilience ecosystem for collaborators, developers, and AI systems.
+The Rays of Resilience ecosystem combines ministry work, humanitarian support programs, and sustainable business platforms to support long term community development.
