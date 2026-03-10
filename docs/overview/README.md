@@ -1,3 +1,4 @@
+# Rays of Resilience Documentation
 ## Ministry Dashboard
 
 ### Core Structure
