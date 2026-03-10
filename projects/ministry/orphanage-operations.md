@@ -1,48 +1,28 @@
 # Orphanage Operations
 
-Organization
-Rays of Resilience Foundation
+## Mission
+Support children through shelter, food, education, spiritual guidance.
 
-Location
-Bugiri Uganda
+## Location
+Bugiri, Uganda
 
-Purpose
-Support vulnerable children
-Provide food housing education care
+## Leadership
+Director: Mawazi Azalwa
 
-Leadership
-Director Mawazi Azalwa
+## Core Responsibilities
+• Child care
+• Education support
+• Food and daily needs
+• Health and hygiene
+• Spiritual guidance
 
-Caretakers
-Hasifa
-Olele Juma
-Mukova Denis
+## Current Needs
+• School supplies
+• Food support
+• Clothing
+• Medical support
 
-Current Work
-Daily care for children
-Food support
-Education support
-Community outreach
-
-Needs
-School materials
-Food supplies
-Clothing
-Medical support
-Infrastructure support
-
-Step 7
-Click Commit changes.
-
-After that the structure becomes:
-
-docs
-overview
-README.md
-master-roadmap.md
-priorities.md
-project-list.md
-
-projects
-ministry
-orphanage-operations.md
+## Future Development
+• Expand housing
+• Build stable food supply
+• Strengthen education support
