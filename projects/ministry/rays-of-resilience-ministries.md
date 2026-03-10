@@ -33,3 +33,12 @@ Pastor: Ronald
 • Strengthen support systems for children
 • Build sustainable community projects
 • Create strong faith based leadership networks
+## Organizational Structure
+
+Rays of Resilience International Ministries
+
+Local operating entity in Uganda  
+Rays of Resilience International Ministries Limited
+
+Support organization  
+Rays of Resilience Foundation
