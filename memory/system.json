@@ -1,0 +1,22 @@
+{
+  "system_name": "Rays Operations Bot",
+  "version": "1.0",
+  "purpose": "Store shared memory and reduce repeated token usage across agents.",
+  "agents": [
+    "orchestrator-agent",
+    "supervisor-agent",
+    "system-agent",
+    "research-agent",
+    "project-architect-agent",
+    "builder-agent",
+    "ministry-agent",
+    "operations-agent",
+    "business-agent",
+    "investments-agent",
+    "legal-agent"
+  ],
+  "active_priorities": [],
+  "recent_updates": [],
+  "shared_context": [],
+  "project_status": []
+}
