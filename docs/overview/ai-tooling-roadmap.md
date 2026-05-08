@@ -84,6 +84,44 @@ Not allowed without explicit approval:
 - Deployment configuration changes
 - Automated writes to production systems
 
+## Claude Code Connection
+
+Claude Code may be connected to a local clone of this repository as a documentation assistant only. Its connection should support careful reading, review, and planning while preserving the repository's documentation-first safety boundary.
+
+### Safe Claude Code Responsibilities
+
+Claude Code should:
+
+- Read repository documentation before suggesting changes.
+- Start with the primary entry points in `AGENTS.md`, `docs/overview/README.md`, `docs/overview/ai-context.md`, `docs/overview/ai-entry.md`, `docs/overview/operations-manual.md`, and this roadmap.
+- Review Codex changes for clarity, consistency, navigation quality, and alignment with Rays of Resilience structure.
+- Suggest architecture improvements for documentation organization, future automation planning, repository navigation, review workflows, and safe tool boundaries.
+- Keep recommendations separated from implementation when human approval is still needed.
+- Update documentation only unless Roman gives explicit written approval for a broader scope.
+
+### Claude Code Safety Boundaries
+
+Claude Code must never:
+
+- Touch, request, store, print, or move secrets, including API keys, passwords, tokens, donor private data, payment data, banking data, hosting credentials, email credentials, or service account files.
+- Deploy anything.
+- Change production systems.
+- Connect this repository to live payment, donor, banking, website, email sending, hosting, or ministry operations systems.
+- Modify deployment configuration, infrastructure configuration, or automation that could write to live systems without explicit written approval and human review.
+- Convert planning notes into operational commitments without human review.
+
+### Claude Code Review Workflow
+
+When reviewing Codex changes, Claude Code should use this sequence:
+
+1. Read the changed files and nearby context.
+2. Confirm the change is documentation only.
+3. Check entity names for consistency.
+4. Check that ministry, foundation, church, and business roles remain separated.
+5. Check that no secrets, live integrations, deployment steps, or production changes were added.
+6. Suggest wording, structure, link, or architecture improvements as comments or documentation-only edits.
+7. Escalate to human review when a change affects legal, financial, donor-facing, compliance, tax, production, or operational commitments.
+
 ### Codex
 
 Best use:
@@ -188,6 +226,20 @@ Possible future documentation-only planning areas:
 - Documentation linting
 - Broken link checks
 - Repository navigation cleanup
+
+### Phase 5: Future Orchestration Layer
+
+OpenClaw and Jarvis may be evaluated later as an orchestration layer for coordinating AI-assisted documentation workflows. This phase is future planning only and does not authorize implementation, deployment, production access, or secret handling.
+
+Possible future orchestration responsibilities:
+
+- Route documentation tasks between ChatGPT, Claude Code, Codex, and human reviewers.
+- Track documentation review status and required approvals.
+- Maintain a safe task queue for documentation-only updates.
+- Coordinate architecture suggestions without applying production changes.
+- Produce audit-friendly summaries of what each AI tool reviewed or changed.
+
+OpenClaw and Jarvis must remain outside live ministry, donor, payment, banking, email, hosting, and website systems unless Roman gives explicit written approval, human review is complete, and separate safety documentation is created first.
 
 ## Documentation-Only PR Checklist
 
