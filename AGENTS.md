@@ -8,6 +8,7 @@ This repository documents the structure, projects, operations, leadership, fundi
 - docs/overview/ai-context.md
 - docs/overview/ai-entry.md
 - docs/overview/operations-manual.md
+- docs/overview/ai-tooling-roadmap.md
 
 ## Core Entities
 - Rays of Resilience International Ministries
@@ -36,12 +37,16 @@ This repository documents the structure, projects, operations, leadership, fundi
 2. Use ai-context.md for organization context.
 3. Use ai-entry.md for navigation.
 4. Use operations-manual.md for day to day functions.
-5. Use ministry files for church, orphanage, leadership, foundation context.
-6. Use business files for funding platform context.
-7. Keep entity names consistent across all outputs.
-8. Treat Rays of Resilience International Ministries as parent ministry structure.
-9. Treat Rays of Resilience Foundation as child support plus community support structure.
-10. Treat Rays of Resilience International Ministries Limited as Uganda operating entity.
+5. Read ai-tooling-roadmap.md before AI-assisted repository work.
+6. Use ministry files for church, orphanage, leadership, foundation context.
+7. Use business files for funding platform context.
+8. Keep entity names consistent across all outputs.
+9. Treat Rays of Resilience International Ministries as parent ministry structure.
+10. Treat Rays of Resilience Foundation as child support plus community support structure.
+11. Treat Rays of Resilience International Ministries Limited as Uganda operating entity.
+12. Documentation only unless explicitly approved otherwise.
+13. Never store credentials in repository files.
+14. Never deploy or modify production systems.
 
 ## Output Priorities
 - Keep names consistent
